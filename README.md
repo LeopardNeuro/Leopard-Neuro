@@ -4,3 +4,5 @@ Leopard Neuro 兰若 不是一个只会聊天的 AI 工具，而是一套面向�
 从需求整理到代码 Agent 开发与 Skills，从接口测试到研发文档管理与 RAG 检索，从小说、剧本、播客和脚本创作，到角色图、场景图、分镜图、宣传图和视频内容生产，Leopard Neuro 兰若 让高频研发与高频创作第一次在一个平台内协同发生。
 
 如果你既要做研发，又要做内容；既要写方案、写剧本、写小说，又要生成图片、视频和沉淀笔记，那么 Leopard Neuro 兰若，就是为长期生产而生的新一代 AI 研发与创作编辑器。
+
+<img width="1510" height="882" alt="image" src="https://github.com/user-attachments/assets/4c4ec9cf-d663-49a4-b12c-04fa06ed18bc" />
